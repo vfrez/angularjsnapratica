@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25/05/2015, 20:15:17
+    Author     : craveiro
+*/
+
+
+.ng-valid{
+    background-color: green;
+}
+
+.ng-invalid{
+    background-color: red;
+}
+
+.grande{
+    font-size: 20px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.red{
+    color: #F00;
+}
